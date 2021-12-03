@@ -24,7 +24,7 @@ namespace OOPShapes
         }
         public Rectangle()
         {
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            
             Console.WriteLine("Dikdörtgen");
         }
 

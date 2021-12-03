@@ -34,6 +34,10 @@ namespace OOPShapes
         public abstract void CalculateArea();
         public abstract void CalculatePerimeter();
 
+        public Shape()
+        {
+           
+        }
 
 
     }

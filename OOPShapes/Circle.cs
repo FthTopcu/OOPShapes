@@ -17,7 +17,7 @@ namespace OOPShapes
         }
         public Circle()
         {
-            Console.BackgroundColor = ConsoleColor.DarkGreen;
+            
             Console.WriteLine("Daire ");
             
         }

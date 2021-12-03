@@ -9,17 +9,15 @@ namespace OOPShapes
     public class Square:Shape
     {
         private int _side;
-
+        
         public int Side
         {
             get { return _side; }
             set { _side = value; }
         }
         public Square()
-        {
-            Console.BackgroundColor = ConsoleColor.DarkMagenta;
-            Console.WriteLine("Kare");
-            
+        { 
+            Console.WriteLine("Kare");  
         }
         public override void CalculateArea()
         {
